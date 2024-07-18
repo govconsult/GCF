@@ -1,0 +1,14 @@
+title: GovConsult Policies
+description: Repository for hosting multiple domain policies
+theme: minima
+
+# Optional settings
+baseurl: "" # leave empty as it's the root site
+url: "https://govconsult.github.io"
+
+# Exclude from processing
+exclude:
+  - ".well-known"
+
+# Markdown processing
+markdown: kramdown
